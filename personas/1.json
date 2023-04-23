@@ -1,0 +1,13 @@
+{
+  "core": {
+    "attention": 0.5,
+    "uniformity": 0.2,
+    "ego": 0.8,
+    "creativity": 0.3,
+    "alignment": 0.1, // left - right
+  },
+  "extras": {
+    "backStory": "",
+    ""
+  }
+}
